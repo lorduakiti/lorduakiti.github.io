@@ -1,0 +1,42 @@
+
+div#teste1 {
+      padding: 0;
+      margin: 0;
+      /*z-index: -3;*/
+}
+
+div#teste1  div {
+      position: absolute;
+      z-index: 100;
+      padding: 10px 0 0 10px;
+      font: 22px Georgia;
+}
+
+/*
+#title1 {
+      position: absolute;
+      top: 20px;
+      width: 350px;
+      left: 20px;
+      background-color: rgba(0,0,0,0.2);
+      border-radius: 3px;
+      font: 22px Georgia;
+      padding: 10px;
+      z-index: 100;
+}
+*/
+
+
+#buttons1{
+      position: absolute;
+      z-index: 5;
+      bottom: 5px; 
+      /*color: rgba(0,0,0,0.2);*/
+      color: white;
+      border-radius: 4px;
+      text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+#container1{
+      z-index: -5;
+}

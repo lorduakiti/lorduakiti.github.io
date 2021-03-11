@@ -4,12 +4,20 @@
 	<meta http-equiv="Content-Type" content="text/html;" />
 	<meta http-equiv="Content-Language" content="pt-br">
 	<meta charset="UTF-8">
-	<meta name="viewport" 	 content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Website pessoal.">
-	<meta name="author" 	 content="Uákiti Pires">
-
-	<title>Lorduakiti</title>
+	<meta name="viewport"    content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" >
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	
+	<title>LORDUAKITI</title>
+	<meta name="description" content="Personal website.">
+	<meta name="author" 	   content="Uákiti Pires">
+	<meta name="keywords"   content="uakiti, uakiti pires, lorduakiti, data science, data analytics, business intelligence">
+	
+	<link rel="canonical" href="https://lorduakiti.com.br/">
+	<!-- <base href="https://lorduakiti.com.br/"> -->
+	
+
+	<meta property="fb:page_id" content="106293620982349">
+
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-8735811-26"></script>
 	<script>
@@ -27,6 +35,21 @@
 	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 	})(window,document,'script','dataLayer','GTM-WL32RNL');</script>
 	<!-- End Google Tag Manager -->
+
+	<link href="assets/css/global.css" rel="stylesheet">
+	<link href="assets/css/teste1.css" rel="stylesheet">
+	<link href="assets/css/teste2.css" rel="stylesheet">
+	<link href="assets/css/teste3.css" rel="stylesheet">
+
+	<script src="assets/js/global.js" async=""></script>
+
+	<script src="assets/js/libraries/p5.min.js" ></script>
+	<script src="assets/js/libraries/p5.sound.min.js" ></script>
+	<!-- <script src="assets/js/libraries/p5.dom.js" ></script> -->
+
+	<script type="text/javascript">
+		console.log('%c Wellcome in my world!', 'color:green');
+	</script>
 </head>
 <body>
 	<!-- Google Tag Manager (noscript) -->
@@ -34,8 +57,78 @@
 		<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WL32RNL"  height="0" width="0" style="display:none;visibility:hidden"></iframe>
 	</noscript>
 	<!-- End Google Tag Manager (noscript) -->
-	<div>
-		<h1>>_< ok</h1>
+	<div id="app" >
+		<h1 class="prhase">"Quando o Trovão criativo interior </br>se harmoniza com o Vento vivente </br>que é o Espírito, tudo flui." </br>(Kaká Werá)</h1>
+		
+		<h1>loading..</h1>
+
+		<div id="myProgress">
+		<div id="myBar"></div>
+		</div>
+
+		<br>
+		<button onclick="move()">Click Me</button> 
 	</div>
+
+	<!-- <div id="teste1">
+		<div id="container1"></div>
+		<div id="title1">
+			<button>Click! You will hear it.</button>
+		</div>
+		<div id="buttons1">
+			<button id="nodes">Hide/Show Nodes</button>
+			<button id="links">Hide/Show Links</button>
+			<button id="colors">Color/Black&amp;White</button>
+			 <button>Click and drag around to play music (disabled)</button>
+		</div>
+	</div> -->
+
+	<!-- <div id="teste2">
+		<div id="info2">/ It rains when you are sad. /</br>Created by <a href="http://qianqian-ye.com/" style="color: #b3ecec">Qianqian Ye</a> , Powered by <a href="https://p5js.org/" style="color: #b3ecec">p5.js</a></br></br>Move Your Mouse Around</div>
+		<div id="container2"></div>
+		<canvas id="defaultCanvas0" width="1366" height="578" style="width: 1366px; height: 578px;"></canvas>
+	</div> -->
+
+	<!-- <div id="teste3">		
+		<div>
+			<button>Move your mouse around and play</button>
+		</div>  
+		<div id="buttons">
+			<button onclick="pressButton('icecream')" id="icecream">Ice Cream Mode</button>
+			<button onclick="pressButton('calm')" id="calm">Calm Mode</button>
+			<button onclick="pressButton('active')" id="active">Active Mode</button>
+			<button onclick="pressButton('party')" id="party">Party Mode</button>
+		</div>
+		<canvas id="projector" width="1366" height="635">Uh oh your browser does not support the Canvas element.</canvas>	
+	</div> -->
+
+	<!-- <div id="teste4"></div> -->
+
+	<!-- <div id="teste5"></div> -->
+
+	<div id="teste6"></div>
+	
+	<script src="assets/js/custom.js" ></script>
+
+	<!--Teste 1 | Three.js  -->
+	<!-- <script src="assets/js/teste1/RequestAnimationFrame.js"></script>
+	<script src="assets/js/teste1/utils.js"></script>
+	<script language="javascript" src="assets/js/teste1/ijeoma.js"></script>
+	<script language="javascript" type="text/javascript" src="assets/js/teste1/sketch.js"></script><canvas width="1366" height="578"></canvas> -->
+
+	<!--Teste 2 | P5.js  -->
+	<!-- <script language="javascript" type="text/javascript" src="assets/js/teste2/sketch.js"></script><canvas width="1366" height="578"></canvas> -->
+
+	<!--Teste 3 | P5.js  -->
+	<!-- <script language="javascript" type="text/javascript" src="assets/js/teste3/sketch.js"></script><canvas width="1366" height="578"></canvas> -->
+
+	<!--Teste 4 | P5.js  -->
+	<!-- <script language="javascript" type="text/javascript" src="assets/js/teste4/sketch.js"></script><canvas width="1366" height="578"></canvas> -->
+
+	<!--Teste 5 | P5.js  -->
+	<!-- <script language="javascript" type="text/javascript" src="assets/js/teste5/sketch.js"></script><canvas width="1366" height="578"></canvas> -->
+
+	<!--Teste 6 | P5.js  -->
+	<script language="javascript" type="text/javascript" src="assets/js/teste6/sketch.js"></script><canvas width="1366" height="578"></canvas>
 </body>
 </html>

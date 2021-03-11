@@ -1,0 +1,573 @@
+{
+      "personal": {
+            "nick": "lorduakiti",
+            "name": "Uákiti",
+            "last-name": "Pires",
+            "full-name": "Uákiti Pires do Nascimento",
+            "age": null,
+            "born-year": 1986,
+            "job-title": "Data Analyst"
+      },
+      "contact":{
+            "email": "lorduakiti@gmail.com",
+            "work-email": "uakiti.pires@gmail.com",
+            "business-email": "up@decarpy.com.br",
+            "phone": 5562981742176,
+            "business-email": 5511997997783
+      },
+      "social": {
+            "website": "https://lorduakiti.com.br",
+            "linkedin": "https://www.linkedin.com/in/uakiti/",
+            "facebook": "http://www.facebook.com/lorduakiti",
+            "instagram": "https://www.instagram.com/lorduakiti/",
+            "twitter": "https://twitter.com/lorduakiti",
+            "github": "https://github.com/lorduakiti",
+            "gitlab": "https://gitlab.com/lorduakiti",
+            "bitbucket": "https://bitbucket.org/lorduakiti/",
+            "medium": "https://medium.com/@lorduakiti",
+
+      }
+      "list-goals": ["data analyst", "data science", "data engineer"],
+      "about": {
+            "hint": "No comments..",
+            "thought": "BIG Dreamer and BIG maker",
+            "description": "Acting in the area of technological innovation, helping companies develop software with a focusing on solutions from data analysis and database. Working in the IT market for more than 10 years of hands-on experience in projects and team management, having graduate Mechatronics Engineering and specialization in Project Management. \nWithout fear of trying to solve challenges in companies or organizations where I can undertake in terms of products, services, and processes. I always seek to improve the methods used from the integration and improvement of the team, with the main objective to help the development of people who work next to me, in an increasingly complex, connected and fast-paced world. \nI am passionate about engineering, science and I have a hobby to build robots and to study new technologies. \nMy BIG DREAM is to participate in activities of high positive impact on people and in the world, using my technological and social knowledge."
+      },
+      "list-keywords": ["data analyst", "data scientist"," data engineer", "data science", "bi", "business intelligence", "process automation", "data automation", "etl", "data transformation", "power bi", "excel", "python", "javascript", "api"],
+      "list-phrases": [
+            {
+                  "phrase": "Education produces attitudes that transform habits, which open doors and redefine lives.",
+                  "author": "SENAR-GO"
+            },
+            {
+                  "phrase": "Quando o Trovão criativo interior se harmoniza com o Vento vivente que é o Espírito, tudo flui.",
+                  "author": "Kaká Werá"
+            },
+            {
+                  "phrase": "As pessoas geralmente fazem as coisas certas pelos motivos errados.",
+                  "author": "Uákiti Pires"
+            }
+      ],
+      "list-education": [
+            {
+                  "school": "University Paulista (UNIP)",
+                  "degree": "Automation and Control Engineer",
+                  "field-of-study": "Mechatronics",
+                  "country": "Brazil",
+                  "state": "Federal District",
+                  "start-date": {
+                        "year": 2005,
+                        "month": 1
+                  },
+                  "end-date": {
+                        "year": 2010,
+                        "month": 8
+                  },
+                  "grade": "",
+                  "activities": ["Research Group on Robotics Z-TRONICS of the University Paulista of the UNIP-DF campus, Aeromodelism Team ANTONOV of the University Paulista of the UNIP-DF campus."],
+                  "societies": ["Research Group on Robotics Z-TRONICS"],
+                  "description": "Alumni of the F-180 and Humanoide robot soccer team and former Chairman of the Z-TRONICS Robotics Research Group of the University Paulista of the UNIP-DF campus. Former member of the ANTONOV aeromodelling team of the University Paulista of the UNIP-DF campus."
+            },
+            {
+                  "school": "Faculty ICESP",
+                  "degree": "Post-Graduate in Project Management - PMBoK",
+                  "field-of-study": "PMBoK",
+                  "country": "Brazil",
+                  "state": "Federal District",
+                  "start-date": {
+                        "year": 2013,
+                        "month": 3
+                  },
+                  "end-date": {
+                        "year": 2013,
+                        "month": 10
+                  },
+                  "grade": "",
+                  "activities": [],
+                  "societies": [],
+                  "description": ""
+            },
+            {
+                  "school": "Federal University State of Goias (UFG)",
+                  "degree": "Special student of the Master in Engineering",
+                  "field-of-study": "Robotics",
+                  "country": "Brazil",
+                  "state": "Goiás",
+                  "start-date": {
+                        "year": 2016,
+                        "month": 1
+                  },
+                  "end-date": {
+                        "year": 2016,
+                        "month": 6
+                  },
+                  "grade": "",
+                  "activities": [],
+                  "societies": [],
+                  "description": ""
+            },
+            {
+                  "school": "Federal University Campinas (UNICAMP)",
+                  "degree": "Special student of the Master in Engineering",
+                  "field-of-study": "Engineering",
+                  "country": "Brazil",
+                  "state": "São Paulo",
+                  "start-date": {
+                        "year": 2014,
+                        "month": null
+                  },
+                  "end-date": {
+                        "year": 2014,
+                        "month": null
+                  },
+                  "grade": "",
+                  "activities": [],
+                  "societies": [],
+                  "description": ""
+            },
+            {
+                  "school": "University of Brasilia (UNB)",
+                  "degree": "Special Graduation Student",
+                  "field-of-study": "Mechatronics, Robotics and Control and Automation Engineering",
+                  "country": "Brazil",
+                  "state": "Federal District",
+                  "start-date": {
+                        "year": 2008,
+                        "month": null
+                  },
+                  "end-date": {
+                        "year": 2008,
+                        "month": null
+                  },
+                  "grade": "",
+                  "activities": ["Research Group on Robotics Z-TRONICS of the University Paulista of the UNIP-DF campus, Aeromodelism Team ANTONOV of the University Paulista of the UNIP-DF campus."],
+                  "societies": ["Research Group on Robotics Z-TRONICS"],
+                  "description": "Participated in the pre-prototyping of a grain separator simulated with Simulink software, LabView and Solid Works, in the discipline of Integrator Project of the University of Brasilia (UNB)."
+            }
+      ],
+      "list-licenses": [
+
+      ],
+      "list-certifications": [
+
+      ],
+Licenses & certifications
+Unasus-UFG
+Integration with the National Health Data Network (RNDS using RESTful API FHIR)
+Issuing authorityUnasus-UFG
+
+Issued date and, if applicable, expiration date of the certification or licenseIssued Mar 2021No Expiration Date
+
+Credential IdentifierCredential ID https://moodle2.ufg.unasus.gov.br/
+
+Data Science Academy
+Introduction of Data Science
+Issuing authorityData Science Academy
+
+Issued date and, if applicable, expiration date of the certification or licenseIssued Oct 2017No Expiration Date
+
+Credential IdentifierCredential ID 1
+      "list-experience": [
+
+      ],
+Experience
+Life in Data
+Company NameLife in Data
+Total Duration3 yrs 3 mos
+
+TitleTechnology and Innovation Leader
+Self-employed
+Dates EmployedJan 2019 – Present
+Employment Duration2 yrs 3 mos
+LocationGoiânia-GO, Brazil
+Creating breakthrough business opportunities using technologies and tools for Big Data, AI and data analytics. Agile management of technical teams for data project deliverables.
+TitleData Analyst
+Part-time
+Dates EmployedJan 2018 – Dec 2018
+Employment Duration12 mos
+LocationGoiânia Area, Brazil
+Data analysis of the public health hospitals and health market using the Power BI data analysis platform. Focused on projects for breast cancer and analysis for life quality.
+DeCarpy Automation
+Consultant of Technological Innovation Strategies
+Company NameDeCarpy Automation Freelance
+Dates EmployedApr 2015 – Present
+Employment Duration6 yrs
+LocationGoiânia Area, Brazil
+Acting on the potential of technological innovation strategies in market niches, focusing on the search for high impact and projection solutions. With experience in strategic vision, business intelligence and data analysis.
+ 
+Ciclo Cairu
+Sales Representative
+Company NameCiclo Cairu Contract
+Dates EmployedSep 2020 – Dec 2020
+Employment Duration4 mos
+LocationRio Verde, Goiás, Brazil
+I carried out the direct sale of motorcycle parts to customers in the sector, serving motorcycle distributors and workshops.
+TOTVS
+Business Analyst
+Company NameTOTVS Part-time
+Dates EmployedApr 2019 – Mar 2020
+Employment Duration1 yr
+LocationGoiânia Area, Brazil
+Analyzed and maintenance of data projects using the TOTVS Carol AI platform. Development of management systems using the FLuig platform, integrated with ERP system TOTVS RM e TOTVS Protheus.
+SENAR/AR-GO
+Full-Stack Developer
+Company NameSENAR/AR-GO Full-time
+Dates EmployedAug 2016 – Feb 2019
+Employment Duration2 yrs 7 mos
+LocationGoiânia Area, Brazil
+Worked as a Software Full-Stack Developer analyze, develop and maintain the management software for the activities of the FAEG / SENAR System, focused on processes and services related to Rural Vocational Training and Social Promotion of rural workers and rural producers in the state of Goiás, linked to the agribusiness sector . Integrating several types of technology and system solutions covering ERP RM Totvs, Totvs Fluig platform, BI Gooddata, Big Data, Fluig Data and Carol AI.
+…
+see more
+Paulistanas Store
+Salesman
+Company NamePaulistanas Store
+Dates EmployedAug 2015 – Oct 2015
+Employment Duration3 mos
+LocationGuarujá, São Paulo, Brazil
+I worked in the direct sales team in a street store, being responsible for serving customers, organizing the stock of products and arranging the showcase of shoes and clothes racks.
+Self-employed
+Mecatronic Engineer
+Company NameSelf-employed Freelance
+Dates EmployedJan 2011 – Apr 2015
+Employment Duration4 yrs 4 mos
+LocationCampinas Area, Brazil
+Worked in the area of embedded hardware development concentrate on process automation, with the aim of seeking innovative alternatives in research and development projects. Focusing on the analysis of production processes, identification of deficiencies and elaboration of solutions for the development of companies or enterprises, according to the region in which they are installed and their market risk factors.
+…
+see more
+Metroman
+Maintenance Engineer
+Company NameMetroman Full-time
+Dates EmployedOct 2011 – Dec 2013
+Employment Duration2 yrs 3 mos
+LocationBrasília, DF, Brasil
+Worked as a Maintenance Engineering for the "Metrô-DF" subway system, in the area of rolling stock (passenger trains) of Fleet 2000, where I was responsible for monitoring the warranty of 12 Alstom manufacturing trains, and also drafted some 30 technical reports and roadmaps I performed fault analysis using Advanced Excel (VBA) and Access and created the arborization architecture of trains equipment.
+…
+see more
+Embrapar Group - ROF Brazil
+Technical Department Supervisor
+Company NameEmbrapar Group - ROF Brazil Full-time
+Dates EmployedOct 2010 – Oct 2011
+Employment Duration1 yr 1 mo
+LocationGoiânia, GO, Brazil
+Development and approved of the embedded hardware of a module for localization with GPS / GPRS technology and PIC microcontroller in automotive vehicles, being the person in charge of the project management (PMBoK), that included the management of the team, survey of purchases, technical definitions, tests of prototyping and monitoring activities with MS-Project.
+
+MaxiBlock 3
+MaxiBlock 3
+Infolog Technology
+Programmer
+Company NameInfolog Technology Full-time
+Dates EmployedJan 2006 – Aug 2010
+Employment Duration4 yrs 8 mos
+LocationBrasília, DF, Brazil
+Development of Enterprise Software in project of a school management web system for more than 20 schools with availability 24/7 with online access, using ASP / .Net programming languages, PHP, Flex and Microsoft SQL Server 2000 relational database.
+Starvai Automation and Engineering
+Intern
+Company NameStarvai Automation and Engineering Internship
+Dates EmployedApr 2010 – Jun 2010
+Employment Duration3 mos
+LocationBrasília e Região
+Performed installation and maintenance activities of products for residential automation in environments such as Artiere, Neocontrol, Digital Home SMS, and also commercial automation of companies using CCTV and POS system.
+
+Starvai Automação e Engenharia
+Starvai Automação e Engenharia
+McDonalds
+Restaurant Attendant
+Company NameMcDonalds Part-time
+Dates EmployedFeb 2006 – Aug 2006
+Employment Duration7 mos
+LocationBrasília, Federal District, Brazil
+I performed assembly services for quick snacks, counter service, cashier, canary and tele delivery.
+      "list-volunteer-experience": [
+
+      ],
+Volunteer experience
+ 
+Engenheiros sem Fronteiras - Brasil
+Participant
+Company NameEngenheiros sem Fronteiras - Brasil
+Dates volunteeredApr 2017 – Dec 2018 Volunteer duration1 yr 9 mos
+CauseScience and Technology
+Participation in the coordination of the ESF nucleus Goiânia
+
+ 
+PMI Goiania Goias Brasil Chapter
+Voluntary
+Company NamePMI Goiania Goias Brasil Chapter
+Dates volunteeredOct 2016 – Dec 2016 Volunteer duration3 mos
+CauseEducation
+Event: 11th PROJECT MANAGEMENT SEMINAR
+Total Hours: 06h
+Held from the 6th to the 8th of October 2016, at the Faculty of Technology SENAC.
+
+ 
+Lab. EMAC, UFG
+Project Management Consultant
+Company NameLab. EMAC, UFG
+Dates volunteeredJan 2015 – Jun 2016 Volunteer duration1 yr 6 mos
+CauseSocial Services
+Worked in the training of the team to use tools and methodology in project management. Helped in the planning for opening a project office within the EMAC Laboratory of the Federal University of Goiás.
+      "list-skills": [
+
+      ],
+Skills & endorsements
+Add a new skill
+
+Take skill quiz
+Data Science
+Data Analysis
+Microsoft Power BI
+Industry Knowledge
+Software Development
+Agile Project Management
+See 1 endorsement for Agile Project Management1
+Project Management
+See 4 endorsements for Project Management4
+Project Planning
+See 4 endorsements for Project Planning4
+Business Process Management
+See 3 endorsements for Business Process Management3
+Engineering
+See 5 endorsements for Engineering5
+Strategic Planning
+Robotics
+Software Engineers
+Artificial Intelligence (AI)
+Programming
+Process Automation
+Tools & Technologies
+Enterprise Software
+JavaScript
+See 6 endorsements for JavaScript6
+Solidity
+Python (Programming Language)
+Microsoft SQL Server
+See 4 endorsements for Microsoft SQL Server4
+PostgreSQL
+SQL
+React
+React.js
+Node.js
+Blockchain
+Microsoft Excel
+See 5 endorsements for Microsoft Excel5
+Other Skills 
+Full Stack Developer
+See 2 endorsements for Full Stack Developer2
+Agile Application Development
+See 1 endorsement for Agile Application Development1
+Smart Contracts Ethereum
+Blockchain Developement
+Fluig
+See 2 endorsements for Fluig2
+Mobile Robotics
+Robotic Process Automation (RPA)
+Neo4j
+JavaScript Libraries
+      "list-recommendations": [
+
+      ],
+      "accomplishments": {
+            "publication": [],
+Publication
+
+Análise das características de implementação da arquitetura cognitiva LIDA em robôs móveis no ambiente industrial
+publication dateNov 2014  publication descriptionIV SICA (Seminário Interno de Cognição Artificial), 2014. FEEC (Faculdade de Engenharia Elétrica e Computação) da UNICAMP (Universidade Federal de Campinas), Campinas-SP, Brasil.
+
+publication descriptionO presente trabalho se propõe a analisar as características chaves de implementação da arquitetura cognitiva LIDA em robôs móveis inseridos no ambiente industrial, observando o uso das função cognitivas modularizadas na arquitetura e detalhando estruturas conceituais necessárias a serem redesenhadas ou desenvolvidas.
+            "patent": [],
+            "honors": [],
+
+Honors &
+
+Co-Coordenação
+honor dateMay 2010  honor issuer|V Desafio Brasiliense de Robôs (DBR)
+
+Participação
+honor dateSep 2008  honor issuerCongresso Mundial de Engenheiros (WEC – World Engineering Convention)
+
+Participação categoria SEK
+honor dateSep 2008  honor issuerVII Competição IEEE Latino Americana de Robótica e VI CBR
+
+Co-Coordenação
+honor dateAug 2007  honor issuer|II Desafio Brasiliense de Robôs (DBR)
+
+
+            "awards": []
+ Awards
+
+2° Maratona de Desenvolvimento 2020
+honor dateFeb 2020  honor issuerZG Soluções
+
+honor descriptionhttps://www.linkedin.com/posts/zg-solucoes_esse-foi-o-p%C3%B3dio-da-maratona-de-desenvolvimento-activity-6641014250196336640-Ludu/
+
+5° lugar na Campus Future
+honor dateJan 2016  honor issuerCampus Party Brasil
+
+honor descriptionMostra de projetos universitários de caráter tecnológico e inovador realizada no espaço da Campus Experience, na Campus Party Brasil 2016 (CPBR9).
+
+1° lugar na competição de Resolução de Case
+honor dateApr 2015  honor issuerFundação Estudar
+
+honor descriptionResolução de Case: Escalabilidade dos Programas - Imersão Consultoria.
+
+3° lugar categoria Humanoide
+honor dateOct 2010  honor issuerCompetição IEEE Latino Americana de Robótica e VII CBR
+
+
+28° lugar
+honor dateNov 2009  honor issuerXI Competição SAE Brasil de Aerodesign
+
+4° lugar na categoria F-180
+honor dateSep 2008  honor issuer|| Brazilian Robocup Open e V RoboCup Brasil
+
+
+3° lugar na categoria F-180
+honor dateSep 2007  honor issuer| Brazilian Robocup Open e IV RoboCup Brasil
+
+4° lugar na categoria SEK
+honor dateSep 2007  honor issuerVI Competição IEEE Latino Americana de Robótica e V CBR
+
+4° lugar
+honor dateAug 2006  honor issuer|| Desafio Brasiliense de Robôs (DBR)
+
+4° lugar no Desafio Inteligente de Robótica
+honor dateOct 2005  honor issuerV ENECA (Encontro Nacional do Engenheiros de Controle e Automação)
+      },
+      "list-courses": [
+            {
+                  "name": "",
+                  "school":  "",
+                  "associated-with": []
+            }
+
+Courses
+
+AutoCAD 2D (SENAI)
+CLP - Controlador Lógico Programável (SENAI)
+Comandos Elétricos (SENAI)
+Desenvolvimento para Blockchain (contratos inteligentes)
+Course number1
+
+Excel Avançado (SENAI)
+FLUIG - Desenvolvimento de Portais - WCM (Fluig Academy)
+Course number1
+
+FLUIG 1.5 - Certified Professional (TOTVS LMS)
+Course number1
+
+Fluig Atualização 1.6.4
+Course number1
+
+Fundamentos de Mecatrônica (SENAI)
+Imersão Ciência, Tecnologia & Inovação (Na Prática - Fundação Estudar)
+Imersão Consultoria (Na Prática - Fundação Estudar)
+Introdução a programação PHP 5.3 com OO (X25)
+Inversores e Conversores (SENAI)
+Lógica de programação (X25)
+Manutenção de campo do sistema de freio do metrocarro Frota série 2000 do Metrô-DF (AQS Tecnologia)
+Manutenção de campo do sistema de tração do metrocarro Frota série 2000 do Metrô-DF (AQS Tecnologia)
+Modelagem de Processos BPMN2 (BP Company Sistemas)
+NR-10 (BRA Cursos)
+Programação Java (X25)
+Robótica Industrial - robô MotoMAN (SENAI)
+Soldagem de Manutenção (SENAI)
+Técnico de manutenção em redes e computadores (MSD/SENAI)
+      ],
+      "list-projects": [
+
+      ],
+Projects
+
+Desenvolvimento Protótipo de Sistema Supervisório Integrado
+Dec 2014 – Jun 2015
+
+Project descriptionAuxiliei o desenvolvimento de um sistema supervisório de instrumentação para processos industriais, com enfoque na aplicação de Lean Manufacturing, integrado um MES e SIS de forma portável para SCDC, DCS ou IHM/SCADA, utilizando hardware Arduino, comunicação de Redes TCP/IP, servidor Apache, linguagem PHP e banco de dados MySQL, para a empresa GelNex.
+
+Other creator
+Uaitã Pires do Nascimento
+Desenvolvimento de Painel de Informação da Manutenção (PIM)
+Nov 2012 – Dec 2013
+
+Project descriptionAnalisei e identifiquei, juntamente com a equipe de engenharia, as necessidade de integração de informações de índices contratuais, e desenvolvemos um sistema de gerenciamento de dados no modelo Business Inteligencie (BI), consolidando desta forma um Painel de Informação da Manutenção de todos os subsistemas do sistema metroferroviário do Metrô-DF.
+
+Other creators
+Bruno Agra Barbosa
+Rodney Gomes Felipe
+See project Desenvolvimento de Painel de Informação da Manutenção (PIM)See project
+Desenvolvimento de robô humanoide (ROBO CUP 2010)
+Jan 2009 – Dec 2010
+
+Project descriptionParticipei do desenvolvimento de robôs humanoides bípedes e robôs omnidirecionais de hardware embarcado, utilizando microcontroladores MSP430 e Arm7, visão computacional e linguagem C/C++, com objetivo de participar das competições da ROBO CUP, LARC e CBR de futebol de robôs, pelo Grupo de Robótica z-Tronics da Universidade Paulista do Campus UNIP-DF.
+
+Other creators
+Glaucius Penga
+Bruno Agra Barbosa
+See project Desenvolvimento de robô humanoide (ROBO CUP 2010)See project
+Desenvolvimento de robôs de futebol categoria F180 (ROBO CUP 2007 a 2010)
+Jun 2007 – Aug 2010
+
+Project descriptionDesenvolvi robôs com hardware embarcado, microcontrolado com CI Amr7, visão computacional e locomoção omnidirecional, para competições de robótica como ROBO CUP, LARC e CBR.
+
+Other creators
+Glaucius Penga
+Bruno Agra Barbosa
+Bruno Schmeisck Ribeiro
+Euler Lins
+See project Desenvolvimento de robôs de futebol categoria F180 (ROBO CUP 2007 a 2010)See project
+Futebol de robôs - categoria F180
+Jun 2007 – Aug 2010
+
+Project descriptionDesenvolvimento de robôs com hardware embarcado, microcontrolado com CI Arm7, visão computacional e locomoção omnidirecional.
+
+Other creators
+Bruno Schmeisck Ribeiro
+Euler Lins
+Bruno Agra Barbosa
+
+See project Futebol de robôs - categoria F180See project
+Construção de avião aeromodelo (SAE Aerodesign 2008 e 2009)
+Jan 2008 – Dec 2009
+
+Project descriptionAuxiliei a construção de um avião aeromodelo rádio controlado projetado com softwares de engenharia como Matlab, AutoCAD e SolidWorks, com o objetivo de participar da competição SAE Aerodesign, pela equipe Antonov da Universidade Paulista do Campus UNIP-DF.
+E participação das "XI Competição SAE BRASIL de Aerodesign" (2009) e "X Competição SAE BRASIL de Aerodesign" (2008).
+
+Other creators
+Bruno Agra Barbosa
+Bruno Schmeisck Ribeiro
+See project Construção de avião aeromodelo (SAE Aerodesign 2008 e 2009)See project
+      "list-languages": [],
+Languages
+
+Espanhol
+Elementary proficiency
+
+Inglês
+Full professional proficiency
+
+Japonês
+Elementary proficiency
+
+Português
+Native or bilingual proficiency
+      "list-organizations": []
+Organizations
+
+ISA - International Society of Automation
+organization dateFeb 2015 – Jan 2016  organization positionMembro
+
+Equipe Antonov de Aerodesign
+organization dateJul 2007 – Dec 2009  organization positionIntegrante
+
+organization descriptionEquipe de Aeromodelismo e Aerodesign Antonov da Universidade Paulista do campus UNIP-DF.
+
+Grupo de Pesquisa em Robótica z-Tronics
+organization dateJan 2006 – Dec 2009  organization positionPresidente
+
+organization descriptionO Z-TRONICS é um grupo de robótica, formado por alunos que tem a proposta de desenvolver o conhecimento destes nas áreas de engenharia mecatrônica, elétrica e ciência da computação, participando das mais diversas competições de robótica. A partir deste ponto de vista o grupo vem desde meados de 2004 aperfeiçoando o conhecimento dos seus integrantes de forma lúdica neste campo para solucionar diversos “desafios inteligentes” em robótica, chegando ao desenvolvimento de robôs com métodos de analise e tomada de decisões mais sofisticadas,
+como visão computacional com hardware embarcado de CI’s
+(circuitos integrados) microprocessados.
+
+O grupo de conta com o apoio da Universidade Paulista Campus UNIP-DF, onde desenvolve suas atividades e projetos integrada por alunos dos cursos de Engenharia Mecatrônica, Engenharia Elétrica e Ciência da computação.
+
+site: www.ztronics.com.br
+}
