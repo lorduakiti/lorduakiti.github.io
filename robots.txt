@@ -1,0 +1,30 @@
+# robots.txt for https://lorduakiti.com.br with redirect https://lorduakiti.me
+
+User-agent: *
+Disallow: /assets/css/*
+Disallow: /assets/js/*
+Allow: /assets/img/* 
+
+User-agent: Baiduspider
+Disallow: /assets/css/*
+Disallow: /assets/js/*
+
+User-agent: HaoSouSpider
+Disallow: /assets/css/*
+Disallow: /assets/js/*
+
+User-agent: Sogou web spider
+Disallow: /assets/css/*
+Disallow: /assets/js/*
+
+User-agent: Sogou inst spider
+Disallow: /assets/css/*
+Disallow: /assets/js/*
+
+User-agent: Sogou spider2
+Disallow: /assets/css/*
+Disallow: /assets/js/*
+
+DaumWebMasterTool:?
+
+Sitemap: https://lorduakiti.com.br/sitemap.xml
