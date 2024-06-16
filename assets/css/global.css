@@ -1,3 +1,13 @@
+/* Ocultar barras de rolagem em todos os elementos */
+* {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+*::-webkit-scrollbar {
+  display: none;  /* Chrome, Safari and Opera */
+}
+
 html, body {
   margin: 0;
   padding: 0;
@@ -6,21 +16,104 @@ canvas {
   display: block;
 }
 
-div#app {
-      text-align: center;
-}
-.prhase {
-      text-align: center;
-      color: green;
+.bg {
+  background-image: url('.\\assets\\img\\HBP_Human_Braion_Project.png'); /* Imagem de fundo inicial */
+  height: 100vh; /* Use 100% da altura da viewport */
+  background-size: cover; /* Garante que a imagem cubra toda a área */
+  z-index: 0;
 }
 
-#myProgress {
+.bg-video {
+  position: absolute; /* Posicionamento absoluto em relação ao seu contêiner */
+  top: 50%; /* Posiciona o topo do vídeo no meio da página verticalmente */
+  left: 50%; /* Posiciona o lado esquerdo do vídeo no meio da página horizontalmente */
+  transform: translate(-50%, -50%); /* Ajusta o vídeo para que seu centro fique alinhado com o ponto central da página */
+  min-width: 100%; 
+  min-height: 100%;
+  z-index: 0;
+}
+
+.bg-video video {
   width: 100%;
-  background-color: #ddd;
+  height: 100%;
+  object-fit: cover; /* Isso vai garantir que o vídeo cubra toda a área */
 }
 
-#myBar {
-  width: 1%;
-  height: 30px;
-  background-color: #4CAF50;
+div#app {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 10;
+}
+.home-prhase {
+  text-align: center;
+  color: green;
+  white-space: nowrap;
+  overflow: hidden;
+  display: inline-block;
+  border-right: 3px solid white; /* Simula o cursor de digitação */
+  /* animation: typing 4s steps(40, end) forwards, blink-caret .75s step-end infinite, show-phase 2s both; */
+  width: 500px;
+  height: 40px;
+  display: none;
+}
+
+.home-prhase:hover {
+  opacity: 1;
+}
+.prhase-1{
+  /* Inicia imediatamente */
+  /* animation-delay: 0s;  */
+} 
+.prhase-2{
+  /* Inicia após a frase 1 terminar */
+  /* animation-delay: 6s;  */
+} 
+.prhase-3 {
+  /* Inicia após a frase 2 terminar */
+  /* animation-delay: 14s;  */
+}
+.prhase-4 {
+  /* Inicia após a frase 3 terminar */
+  /* animation-delay: 22s;  */
+}
+.home-prhase-end {
+  border: none;
+  display: inline-block;
+}
+
+.blink-caret {
+  /* Simula o cursor de digitação */
+  animation: typing 4s steps(40, end) forwards, blink-caret .75s step-end infinite, show-phase 2s both;
+  display: inline-block;
+}
+
+.blink {
+  animation-name: blink;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+}
+
+/* Animação de digitação */
+@keyframes typing {
+  from { width: 0; }
+  to { width: 100%; }
+}
+
+/* Animação do cursor piscando */
+@keyframes blink-caret {
+  from, to { border-color: transparent; }
+  50% { border-color: white; }
+}
+
+@keyframes show-phase {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes blink {
+  from, to { opacity: 1; }
+  50% { opacity: 0; }
 }
