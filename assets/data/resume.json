@@ -13,7 +13,7 @@
             "work-email": "uakiti.pires@gmail.com",
             "business-email": "up@decarpy.com.br",
             "phone": 5562981742176,
-            "business-email": 5511997997783
+            "business-phone": 5511997997783
       },
       "social": {
             "website": "https://lorduakiti.com.br",
@@ -26,7 +26,7 @@
             "bitbucket": "https://bitbucket.org/lorduakiti/",
             "medium": "https://medium.com/@lorduakiti",
 
-      }
+      },
       "list-goals": ["data analyst", "data science", "data engineer"],
       "about": {
             "hint": "No comments..",

@@ -17,6 +17,7 @@ canvas {
 }
 
 .bg {
+  background-color: rgb(38, 38, 38);
   background-image: url('.\\assets\\img\\HBP_Human_Braion_Project.png'); /* Imagem de fundo inicial */
   height: 100vh; /* Use 100% da altura da viewport */
   background-size: cover; /* Garante que a imagem cubra toda a área */

@@ -28,8 +28,12 @@ setTimeout(function() {
          document.querySelector('.prhase-3').classList.remove('blink-caret');
          document.querySelector('.prhase-3').classList.add('home-prhase-end');
          document.querySelector('.prhase-4').classList.add('blink-caret');
+         setTimeout(function() {
+            document.querySelector('.prhase-4').classList.remove('blink-caret');
+            document.querySelector('.prhase-4').classList.add('home-prhase-end');
 
-         divLoading.style.display = 'none';
+            divLoading.style.display = 'none';
+         }, 2000);
       }, 2000);
    }, 6000);
 }, 6000);
